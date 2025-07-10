@@ -1,5 +1,4 @@
-
-# Digital Marketing Website
+# 📈 Digital Marketing Website
 
 A static Digital Marketing website structured with multiple pages. Built with foundational web technologies like HTML, CSS, JavaScript, and enhanced with Bootstrap for responsive styling.
 
