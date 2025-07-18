@@ -25,7 +25,7 @@ This project is a clean website designed to showcase digital marketing services.
 
 ---
 
-**Even simpler (often works for YouTube/Vimeo):**
+## Project Demo
 
 [![Project Demo Video](http://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
