@@ -25,9 +25,13 @@ This project is a clean website designed to showcase digital marketing services.
 
 ---
 
-## Project Demo
+## 🎥 Project Demo
 
-[![Project Demo Video](http://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+### 🔹 Frontend
+[![Frontend Demo](https://img.icons8.com/clouds/100/000000/video-playlist.png)](https://res.cloudinary.com/drm14e8mg/video/upload/v1752845861/Frontend_ce9wpa.mp4)
+
+### 🔹 Admin Panel
+[![Admin Panel Demo](https://img.icons8.com/clouds/100/000000/video-playlist.png)](https://res.cloudinary.com/drm14e8mg/video/upload/v1752846246/Admin_Panel_xj81zw.mp4)
 
 ---
 
