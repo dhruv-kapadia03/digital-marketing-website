@@ -15,6 +15,13 @@ This project is a clean website designed to showcase digital marketing services.
 
 ---
 
+## 🎥 Project Demo
+
+### 🔹 Digital Marketing Website
+[![DigiMarket Demo](https://img.icons8.com/clouds/100/000000/video-playlist.png)](https://res.cloudinary.com/drm14e8mg/video/upload/DigiMarket_el29bs.mp4)
+
+---
+
 ## 🗂️ Features
 
 - **Multi-page structure** – Homepage, Services, About, Work, Contact  
